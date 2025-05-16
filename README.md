@@ -1,29 +1,27 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Andres Felipe Quiroz Rodriguez
+**Profesión:** _Analisis y desarrollo de software_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** [andresq0128@gmail.com](mailto:correo@ejemplo.com)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **SENA** _(2025 - Actualidad)_
+- Programador de Desarrollo de software
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **SILEC Comunicaciones** _(2023 - 2024)_
+- Gestor Financiero
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **SENA** _(2022 - 2023)_
+- Tecnico en Mecanica de la bicicleta y seguridad Vial
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Anilisis Financiero**
+- **Manejo de HTML y CSS basico**
+- **Conocimiento en Sistemas y Manejo de excel**
 
 ---
 
